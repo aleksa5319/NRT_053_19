@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "kategorija": "automobili",
+        "datumIsteka": "2022-12-27",
+        "cena": {
+            "valuta": "RSD",
+            "vrednost": 270000
+        },
+        "tekst": "Prodajem auto, 2004.godiste",
+        "oznake": [
+            "Zapremina motora je 1900cm3",
+            "Renault", "Grand Scenic",
+            "Dizel"
+        ],
+        "mejl": [
+            {
+                "adresa": "tibor.vigar@gmail.com",
+                "tip": "privatni"
+            }
+            
+        ]
+    },
+    {
+        "id": 0,
+        "kategorija": "automobili",
+        "datumIsteka": "2022-12-27",
+        "cena": {
+            "valuta": "RSD",
+            "vrednost": 633.000
+        },
+        "tekst": "Prodajem auto, 2011.godiste",
+        "oznake": [
+            "Zapremina motora je 1195cm3",
+            "Scoda", "Octavia",
+            "Benzin"
+        ],
+        "mejl": [
+            {
+                "adresa": "aleksandar.stevanovic@gmail.com",
+                "tip": "privatni"
+            }
+            
+        ]
+    }
+]
