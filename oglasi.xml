@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oglas>
+        <kategorija tip="automobili" />
+        <datumIsteka>27.12.2022.</datumIsteka>
+        <cena valuta="RSD">270.000</cena>
+        <tekst>Prodajem auto,2004.godiste</tekst>
+        <oznaka atribut="marka">Renault</oznaka>
+        <oznaka atribut="model">Grand Scenic</oznaka>
+        <oznaka atribut="gorivo">Dizel</oznaka>
+        <email tip="privatni">tibor.vigar@gmail.com</email>
+</oglas>
+
+    <oglas>
+        <kategorija tip="automobili" />
+        <datumIsteka>27.12.2022.</datumIsteka>
+        <cena valuta="RSD">633.000</cena>
+        <tekst>Prodajem auto,2011.godiste</tekst>
+        <oznaka atribut="marka">Skoda</oznaka>
+        <oznaka atribut="model">Octavia</oznaka>
+        <oznaka atribut="gorivo">Benzin</oznaka>
+        <email tip="privatni">aleksandar.stevanovic@gmail.com</email>
+    </oglas>
